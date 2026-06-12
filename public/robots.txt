@@ -28,4 +28,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://big4india.com/sitemap.xml
+Sitemap: https://www.big4india.com/sitemap.xml

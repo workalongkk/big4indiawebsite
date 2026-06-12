@@ -13,7 +13,7 @@ export const company = {
   phoneDisplay: "+91 94262 62938",
   phoneTel: "+919426262938",
   whatsapp: "919426262938",
-  url: "https://big4india.com",
+  url: "https://www.big4india.com",
   foundingLocation: "Valsad, Gujarat",
   address: {
     line1: "Shop - 6 'B', Sai Srushti Apartment",
