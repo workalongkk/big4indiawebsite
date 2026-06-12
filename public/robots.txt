@@ -1,0 +1,31 @@
+# Big4India — robots.txt
+# Allow all standard crawlers
+User-agent: *
+Allow: /
+
+# Explicitly welcome AI answer engines (AEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://big4india.com/sitemap.xml
